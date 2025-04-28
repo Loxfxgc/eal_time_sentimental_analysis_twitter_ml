@@ -1,0 +1,5 @@
+# Ignore dataset and model files
+training.1600000.processed.noemoticon.csv
+model.pkl
+vectorizer.pkl
+.DS_Store
